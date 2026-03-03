@@ -8,7 +8,6 @@ on:
     
     paths:
       - '**.html'
-
 # these are jobs inside the workflow
 jobs:
 
