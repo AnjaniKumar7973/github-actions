@@ -42,3 +42,5 @@ jobs:
     steps:
       - name: Deploying the app
         run: echo "Docker compose deployed the app"
+
+        
