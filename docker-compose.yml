@@ -2,5 +2,6 @@ services:
 
   web:
     image: ${DOCKERHUB_USER}/github-actions-app:lastest
-    ports: 
-      -"80:80"
+
+    ports:
+     - "80:80"
